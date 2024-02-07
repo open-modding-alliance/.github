@@ -31,6 +31,12 @@ This is our effort to bridge the gap between the official Giants Developer Netwo
 - 
 
 ### TOOLS
+- Giants Editor (GE) tools and scripts
+- Textures
+- Blender tools, scripts and addons
+- Houdini tools, scripts and addons
+- Bash/command line tools and scripts
+
 
 ### GUIDES AND TIPS & TRICKS 
 
