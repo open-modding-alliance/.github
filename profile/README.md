@@ -17,12 +17,12 @@ Collaboration is the heart of the alliance and we want you to contribute. There 
 This is our effort to bridge the gap between the official Giants Developer Network and the knowledge spread throughout the FS modding community. Sort of an FS modding knowledgebase or "Unofficial FS SDK".
 
 #### Main sections
-- LUA Reference Library
+**LUA Reference Library**
 -   Script Bindings
 -   Undocumented functions
 - Global Tables
 - Known Classes
-- CanIUsetIT: In-game vs Giants Editor vs Lua stand-alone
+- Can-I-Uset-It: In-game vs Giants Editor vs Lua stand-alone
 
 ### MOD ASSETS
 - 3D Models
