@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### 🙋‍♀️ WHAT IS OPEN MODDING ALLIANCE
+# 🙋‍♀️ WHAT IS OPEN MODDING ALLIANCE
 At it's core, Open Modding Alliance is about sharing tools, knowledge and assets for Farming Simulator mods. 
 
 ### OUR MANIFESTO
@@ -13,7 +11,7 @@ Collaboration is the heart of the alliance and we want you to contribute. There 
 3. 👩‍💻 Apply as a contributor 👩‍💻
 4. ❤️ Spread the word and use our assets! 
 
-### 📚 Community SDK
+## 📚 Community SDK
 This is our effort to bridge the gap between the official Giants Developer Network and the knowledge spread throughout the FS modding community. Sort of an FS modding knowledgebase and FS LUA Reference Library.
 
 #### Main sections
