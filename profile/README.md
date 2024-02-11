@@ -1,8 +1,7 @@
 # 🙋‍♀️ OPEN MODDING ALLIANCE
 At it's core, Open Modding Alliance is about sharing tools, knowledge and assets for Farming Simulator mods. 
 
-### Our Manifesto
-Be kind. Share your knowledge. Help your fellow modders. 
+**Our Manifesto:** Be kind. Share your knowledge. Help your fellow modders. 
 
 ### 🌈 Want to Contribute?
 Collaboration is the heart of the alliance and we want you to contribute. There is currently four ways you can do this:
@@ -14,26 +13,28 @@ Collaboration is the heart of the alliance and we want you to contribute. There 
 ## 📚 Community SDK
 This is our effort to bridge the gap between the official Giants Developer Network and the knowledge spread throughout the FS modding community. Sort of an FS modding knowledgebase and FS LUA Reference Library.
 
-#### Main sections
-**LUA Reference Library**
--   Script Bindings
--   Undocumented functions
-- Global Tables
-- Known Classes
-- Can-I-Uset-It: In-game vs Giants Editor vs Lua stand-alone
+- **Script Library** (install | documentation)
+- **FS Build tool** (install | documentation)
+- **[LUA Reference Library](/open-modding-alliance/CommunitySDK)**
+  - Script Bindings
+  - Undocumented functions
+  - Global Tables
+  - Known Classes
+  - Can-I-Uset-It _(in-game vs Giants Editor vs Lua stand-alone)_
+- **Workflow tips & guides**
 
-### MOD ASSETS
-- 3D Models
+## Modding Assets
 - Blender Assets
 - Houdini Assets
-- 
+- 3D Models
 
-### TOOLS
+## Tools
 - Giants Editor (GE) tools and scripts
-- Textures
+- Bash/command line tools and scripts
 - Blender tools, scripts and addons
 - Houdini tools, scripts and addons
-- Bash/command line tools and scripts
+- Graphical Assets (e.g textures)
+- In-game tools & mods
 
 
 ### GUIDES AND TIPS & TRICKS 
