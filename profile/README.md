@@ -24,14 +24,14 @@ This is our effort to bridge the gap between the official Giants Developer Netwo
 - **Workflow tips & guides**
 
 ## Modding Assets
-- Blender Assets
+- [Blender Assets](/open-modding-alliance/BlenderAssets/wiki/Blender-Assets)
 - Houdini Assets
 - 3D Models
 
 ## Tools
 - Giants Editor (GE) tools and scripts
 - Bash/command line tools and scripts
-- Blender tools, scripts and addons
+- [Blender tools, scripts and addons](/open-modding-alliance/BlenderAssets/wiki/Tools-and-add‐ons)
 - Houdini tools, scripts and addons
 - Graphical Assets (e.g textures)
 - In-game tools & mods
