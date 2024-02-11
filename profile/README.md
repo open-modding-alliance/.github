@@ -15,7 +15,7 @@ This is our effort to bridge the gap between the official Giants Developer Netwo
 
 - **Script Library** (install | documentation)
 - **FS Build tool** (install | documentation)
-- **[LUA Reference Library](/open-modding-alliance/CommunitySDK)**
+- **[LUA Reference Library](https://github.com/open-modding-alliance/CommunitySDK)**
   - Script Bindings
   - Undocumented functions
   - Global Tables
