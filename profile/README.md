@@ -13,8 +13,8 @@ Collaboration is the heart of the alliance and we want you to contribute. There 
 3. 👩‍💻 Apply as a contributor 👩‍💻
 4. ❤️ Spread the word and use our assets! 
 
-### 📚 Unofficial GDN (U-GDN) / LUA Reference Library
-This is our effort to bridge the gap between the official Giants Developer Network and the knowledge spread throughout the FS modding community. Sort of an FS modding knowledgebase or "Unofficial FS SDK".
+### 📚 Community SDK
+This is our effort to bridge the gap between the official Giants Developer Network and the knowledge spread throughout the FS modding community. Sort of an FS modding knowledgebase and FS LUA Reference Library.
 
 #### Main sections
 **LUA Reference Library**
