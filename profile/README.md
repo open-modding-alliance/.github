@@ -1,7 +1,4 @@
-# 🙋‍♀️ Open Modding Alliance
-At it's core, Open Modding Alliance is about sharing tools, knowledge and assets for Farming Simulator mods. 
-
-**Our Manifesto:** Be kind. Share your knowledge. Help your fellow modders. 
+🙋‍♀️ At it's core, Open Modding Alliance is about sharing tools, knowledge and assets for Farming Simulator mods. 
 
 ### 🌈 Want to Contribute?
 Collaboration is the heart of the alliance and we want you to contribute. There is currently four ways you can do this:
