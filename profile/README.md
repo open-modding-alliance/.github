@@ -1,5 +1,7 @@
 🙋‍♀️ At it's core, Open Modding Alliance is about sharing tools, knowledge and assets for Farming Simulator mods. 
 
+![OMA](https://komarev.com/ghpvc/?username=open-modding-alliance&label=Profile%20views&color=0e75b6&style=flat)
+
 ### 🌈 Want to Contribute?
 Collaboration is the heart of the alliance and we want you to contribute. There is currently four ways you can do this:
 1. 🐛 Share your feedback and suggestions [ISSUES]
